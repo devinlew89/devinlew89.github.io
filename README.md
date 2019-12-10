@@ -65,9 +65,9 @@ YOOOOOOOOOO! You just landed on my page....That means your either in to the the 
 
 <h5>Follow Me On</h5>
 	
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<img src="devins_monday_project/image/download.png" alt="portfolio piece" width="20px">
-	<img src="devins_monday_project/image/Instagram_AppIcon_Aug2017.png" alt="portfolio piece" width="20px">
-	<img src="devins_monday_project/image/tumblr-icon.svg" alt="portfolio piece" width="20px">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<img src="download.png" alt="portfolio piece" width="20px">
+	<img src="Instagram_AppIcon_Aug2017.png" alt="portfolio piece" width="20px">
+	<img src="tumblr-icon.svg" alt="portfolio piece" width="20px">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
 	
 	<br>
