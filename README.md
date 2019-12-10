@@ -34,7 +34,7 @@
 	}
 	
 	body {
-	background-image:url(cluster-of-stars.jpg);
+	background-image:url("cluster-of-stars.jpg");
 	background-repeat: repeat;
 
 	}
@@ -56,11 +56,11 @@ YOOOOOOOOOO! You just landed on my page....That means your either in to the the 
 
 	
 	
-	<a href="devins_monday_project/DevinsWeb_About.html"><img src="67486656_543822209693061_5103735789892665344_n.jpg" alt="portfolio piece" width="230px"></a>
+	<a href="DevinsWeb_About.html"><img src="67486656_543822209693061_5103735789892665344_n.jpg" alt="portfolio piece" width="230px"></a>
 	
 	
 	
-	<a href="DevinsWeb_About.html"><img src="devins_monday_project/image/download.jpeg" alt="portfolio piece" width="210px"></a>
+	<a href="DevinsWeb_About.html"><img src="download.jpeg" alt="portfolio piece" width="210px"></a>
 	
 
 <h5>Follow Me On</h5>
