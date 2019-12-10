@@ -34,7 +34,7 @@
 	}
 	
 	body {
-	background-image:url("cluster-of-stars.jpg");
+	background-image: url("cluster-of-stars.jpg");
 	background-repeat: repeat;
 
 	}
